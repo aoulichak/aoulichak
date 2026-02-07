@@ -1,16 +1,9 @@
 
 <div align="center">
 
-```
- ██████╗  ██╗   ██╗ ██╗      ██╗  ██████╗ ██╗  ██╗  █████╗  ██╗  ██╗
-██╔═══██╗ ██║   ██║ ██║      ██║ ██╔════╝ ██║  ██║ ██╔══██╗ ██║ ██╔╝
-███████║  ██║   ██║ ██║      ██║ ██║      ███████║ ███████║ █████╔╝
-██╔══██║  ██║   ██║ ██║      ██║ ██║      ██╔══██║ ██╔══██║ ██╔═██╗
-██║  ██║  ╚██████╔╝ ███████╗ ██║ ╚██████╗ ██║  ██║ ██║  ██║ ██║  ██╗
-╚═╝  ╚═╝   ╚═════╝  ╚══════╝ ╚═╝  ╚═════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&lines=Mohamed+Aoulichak;Software+Engineer+%7C+AI+%26+CV;Building+Intelligent+Recognition+Systems" alt="Typing SVG" />
 
-### Software Engineering Student | AI & Computer Vision
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aoulichak)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aoulichak)
@@ -22,12 +15,33 @@
 
 ### `/about`
 
-```yaml
-name: Mohamed Aoulichak
-focus: Computer Vision | Deep Learning | Software Engineering
-languages: [French (Fluent), Arabic (Native), English (Technical)]
-currently: Building intelligent OCR & recognition systems
-interests: [AI, Image Processing, Full-Stack Development, Open Source]
+```js
+class SoftwareEngineer {
+    constructor() {
+        this.name     = "Mohamed Aoulichak";
+        this.role     = "Software Engineering Student";
+        this.focus    = ["Computer Vision", "Deep Learning", "OCR Systems"];
+        this.languages = { french: "Fluent", arabic: "Native", english: "Technical" };
+    }
+
+    getCurrentProjects() {
+        return [
+            "Intelligent Handwriting Recognition with CNNs",
+            "Hybrid OCR Pipeline powered by Generative AI",
+            "Synthetic Data Generation for ML Training",
+            "Full-Stack Invoice Management Platform"
+        ];
+    }
+
+    getTechStack() {
+        return {
+            languages : ["Python", "Java", "C"],
+            ai_ml     : ["PyTorch", "TensorFlow", "Keras", "OpenCV", "NumPy"],
+            web       : ["Flask", "HTML5", "CSS3"],
+            tools     : ["Git", "Linux", "VS Code", "Jupyter"]
+        };
+    }
+}
 ```
 
 ---
@@ -148,14 +162,28 @@ A modern **invoice management web application** built for professionals and smal
 ### `/stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aoulichak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoulichak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages"/>
-</div>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aoulichak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aoulichak&show_icons=true&hide_border=true" height="180" alt="GitHub Stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aoulichak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoulichak&layout=compact&hide_border=true" height="180" alt="Top Languages" />
+</picture>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aoulichak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aoulichak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=aoulichak&hide_border=true" alt="GitHub Streak" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aoulichak&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%" alt="Activity Graph"/>
+
 </div>
 
 ---
