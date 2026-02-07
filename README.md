@@ -15,34 +15,56 @@
 
 ### `/about`
 
-```js
-class SoftwareEngineer {
-    constructor() {
-        this.name     = "Mohamed Aoulichak";
-        this.role     = "Software Engineering Student";
-        this.focus    = ["Computer Vision", "Deep Learning", "OCR Systems"];
-        this.languages = { french: "Fluent", arabic: "Native", english: "Technical" };
-    }
+<table>
+<tr><td>
 
-    getCurrentProjects() {
-        return [
-            "Intelligent Handwriting Recognition with CNNs",
-            "Hybrid OCR Pipeline powered by Generative AI",
-            "Synthetic Data Generation for ML Training",
-            "Full-Stack Invoice Management Platform"
-        ];
-    }
+**Mohamed Aoulichak** -- Software Engineering Student focused on **AI & Computer Vision**
 
-    getTechStack() {
-        return {
-            languages : ["Python", "Java", "C"],
-            ai_ml     : ["PyTorch", "TensorFlow", "Keras", "OpenCV", "NumPy"],
-            web       : ["Flask", "HTML5", "CSS3"],
-            tools     : ["Git", "Linux", "VS Code", "Jupyter"]
-        };
-    }
-}
-```
+</td></tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**- What I do -**
+
+Designing deep learning systems for
+handwritten character recognition.
+Building hybrid OCR pipelines
+augmented with Generative AI.
+Engineering synthetic datasets
+for robust ML training.
+
+</td>
+<td width="33%" align="center">
+
+**- What drives me -**
+
+Turning raw images into
+structured, meaningful data.
+Bridging the gap between
+classical CV and modern AI.
+Shipping clean code that
+solves real problems.
+
+</td>
+<td width="33%" align="center">
+
+**- What I speak -**
+
+French -- Fluent
+Arabic -- Native
+English -- Technical
+
+**- Open to -**
+
+Internships / Research
+Open-source collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -163,26 +185,11 @@ A modern **invoice management web application** built for professionals and smal
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aoulichak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aoulichak&show_icons=true&hide_border=true" height="180" alt="GitHub Stats" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aoulichak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoulichak&layout=compact&hide_border=true" height="180" alt="Top Languages" />
-</picture>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aoulichak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aoulichak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aoulichak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <img src="https://streak-stats.demolab.com?user=aoulichak&hide_border=true" alt="GitHub Streak" />
-</picture>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aoulichak&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%" alt="Activity Graph"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=aoulichak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
