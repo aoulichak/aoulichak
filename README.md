@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&lines=Mohamed+Aoulichak;Software+Engineer+%7C+AI+%26+CV;Building+Intelligent+Recognition+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&lines=Mohamed+Aoulichak;Software+Engineer+%7C+AI+%26+Data;Building+Intelligent+Recognition+Systems" alt="Typing SVG" />
 
 <br/>
 
